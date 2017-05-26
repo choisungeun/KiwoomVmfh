@@ -1,0 +1,14 @@
+﻿  KhOpenApiTestDlg.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  RealAddDlg.cpp
+  RateDlg.cpp
+  OrderDlg.cpp
+c:\users\admin\documents\visual studio 2015\projects\khopenapitest_2.7\khopenapitest_2.7\orderdlg.cpp(274): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\admin\documents\visual studio 2015\projects\khopenapitest_2.7\khopenapitest_2.7\orderdlg.cpp(450): warning C4101: 'lFid' :참조되지 않은 지역 변수입니다.
+  KwanSimDlg.cpp
+  KhOpenApiTest.cpp
+  CurrentPriceDlg.cpp
+  코드를 생성하고 있습니다...
+  KhOpenApiTest.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\KhOpenApiTest_2.7\KhOpenApiTest_2.7\Debug\KhOpenApiTest.exe
+  KhOpenApiTest.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\KhOpenApiTest_2.7\KhOpenApiTest_2.7\Debug\KhOpenApiTest.pdb (Full PDB)
