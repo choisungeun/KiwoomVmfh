@@ -806,7 +806,7 @@ void CKhOpenApiTestDlg::OnBnClickedDatacon()
 	
 	CDbCon *pRateDlg = new CDbCon(this);
 	pRateDlg->m_strScrNo.Format(_T("%04d"), m_nScrN0);
-	pRateDlg->Create(IDD_DBCON);
+	pRateDlg->Create(IDD_DBCON); 
 
 	m_mapScreen.SetAt(pRateDlg->m_strScrNo, pRateDlg);
 }
